@@ -1,16 +1,16 @@
-### Hi there 👋
+# Léo Campos
+### Front-end Developer & UI Designer.
 
-<!--
-**cmpsleo/cmpsleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desde cedo sou apaixonado por tecnologia e trabalhar na área foi uma grande realização, mesmo nunca tendo pensado sobre, anteriormente.
 
-Here are some ideas to get you started:
+Já trabalhei com diversas aplicações, desde web a mobile. Em meus trabalhos como UI Designer, busco desenvolver a melhor experiência possível através das interfaces que crio, utilizando criatividade e simplicidade. Como front-end meu principal objetivo é apresentar melhores experiências ao usuário e entregar aquilo que foi planejado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou movido a desafios e disposto a melhorar a cada dia aquilo em que desempenhei anteriormente.
+
+#### Stack
+  - HTML, CSS, Javascript. (React, Vue, Angular).
+  - Sketch, Figma, Illustrator, Zeplin, Principle.
+
+---
+
+[![Linkedin](https://img.shields.io/badge/-cmpsleo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmpsleo)](https://www.linkedin.com/in/cmpsleo)
